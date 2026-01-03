@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FitLife - AI Fitness Companion",
+  "description": "A high-performance fitness tracking application with AI-powered coaching, form analysis, and workout planning using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
